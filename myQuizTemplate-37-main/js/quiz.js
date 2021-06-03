@@ -1,4 +1,5 @@
 class Quiz {
+    // Some change here for illustration purposes
     constructor(){
     }
     getState(){
